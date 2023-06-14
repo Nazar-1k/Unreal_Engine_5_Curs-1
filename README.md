@@ -16,3 +16,10 @@ Link to the game: https://drive.google.com/drive/folders/1nAt75ZGduW0oRxra1zzBRF
 A simple platformer with obstacles.
 
 Link to the game: https://drive.google.com/drive/folders/1HhX0zoqq1nmFf_XwltvklmLjez0b8fhB?usp=sharing
+
+# Game 3 (Crypt Raider)
+![1111](https://github.com/Nazar-1k/Unreal_Engine_5_Curs-1/assets/82716260/dcfb8030-d79f-464b-99f1-70f8948e9248)
+
+Here's a straightforward puzzle about dungeons, featuring secret rooms and cunning mechanisms that won't allow you to acquire the golden statuette so easily.
+
+Link to the game: https://drive.google.com/drive/folders/1wCfapl1J4TgRI46N-rLwpN-gczNitu1N?usp=sharing
