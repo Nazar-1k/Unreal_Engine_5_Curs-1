@@ -23,6 +23,15 @@ Link to the game: https://drive.google.com/drive/folders/1nAt75ZGduW0oRxra1zzBRF
 
 A simple platformer with obstacles.
 
+**Description of Implementation:**
+1. Simple control Сharacter(WASD, Space), with animation ;
+2. Сorrect physics;
+3. Different types of obstacles:  
+  a. Moving platform(It can go up/down or move right/left);  
+  b. A platform that rotates (it rotates around its axis), there are two types of platform and wall;  
+4.  Simple level;
+5.  Final prize.
+
 Link to the game: https://drive.google.com/drive/folders/1HhX0zoqq1nmFf_XwltvklmLjez0b8fhB?usp=sharing
 
 # Game 3 (Crypt Raider)
