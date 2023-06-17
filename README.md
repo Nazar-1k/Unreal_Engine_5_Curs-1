@@ -31,6 +31,7 @@ A simple platformer with obstacles.
   b. A platform that rotates (it rotates around its axis), there are two types of platform and wall;  
 4.  Simple level;
 5.  Final prize.
+6. ...
 
 Link to the game: https://drive.google.com/drive/folders/1HhX0zoqq1nmFf_XwltvklmLjez0b8fhB?usp=sharing
 
