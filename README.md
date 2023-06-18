@@ -24,11 +24,11 @@ Link to the game: https://drive.google.com/drive/folders/1nAt75ZGduW0oRxra1zzBRF
 A simple platformer with obstacles.
 
 **Description of Implementation:**
-1. Simple control Сharacter(WASD, Space), with animation ;
+1. Simple control Сharacter(WASD, Space), with animation;
 2. Сorrect physics;
 3. Different types of obstacles:  
-  a. Moving platform(It can go up/down or move right/left);  
-  b. A platform that rotates (it rotates around its axis), there are two types of platform and wall;  
+    a. Moving platform(It can go up/down or move right/left);  
+    b. A platform that rotates (it rotates around its axis), there are two types of platform and wall;  
 4.  Simple level;
 5.  Final prize.
 6. ...
@@ -39,6 +39,17 @@ Link to the game: https://drive.google.com/drive/folders/1HhX0zoqq1nmFf_Xwltvklm
 ![1111](https://github.com/Nazar-1k/Unreal_Engine_5_Curs-1/assets/82716260/dcfb8030-d79f-464b-99f1-70f8948e9248)
 
 Here's a straightforward puzzle about dungeons, featuring secret rooms and cunning mechanisms that won't allow you to acquire the golden statuette so easily.
+
+**Description of Implementation:**
+1. Simple control Pawn (WASD, Space);  
+2. Light(Lumen & Light Bleed);  
+3. Implemented Grabber class (it can pick up some objects with certain corresponding tags);  
+4. Implemented move walls:  
+       a. The first wall opens if you place a statuette next to it (the trigger that opens a secret passage works);  
+       b. The second wall closes when the statuette is taken from the stand in the dungeon, and opens when the statuette (or jug) is returned to its place;  
+6. Simple Level;  
+8. ...
+
 
 Link to the game: https://drive.google.com/drive/folders/1wCfapl1J4TgRI46N-rLwpN-gczNitu1N?usp=sharing
 
