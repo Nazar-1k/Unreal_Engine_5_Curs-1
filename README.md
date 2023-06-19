@@ -60,3 +60,10 @@ Link to the game: https://drive.google.com/drive/folders/1wCfapl1J4TgRI46N-rLwpN
 A simple game in which you drive a tank and have to destroy all the turrets that shoot at your tank.
 
 Link to the game: https://drive.google.com/drive/folders/1-VrOQEwj_S8R4w5vmgNOGy3pLtaCdPOc?usp=sharing
+
+# Game 5 (Simple Shooter)
+![game 5](https://github.com/Nazar-1k/Unreal_Engine_5_Curs-1/assets/82716260/51cfec85-9f49-485c-a627-39b7e0df8ca6)
+
+A simple shooter in which you need to kill all the bots that shoot at you.
+
+Link to the game: https://drive.google.com/drive/folders/1XsAMs0gTONNB7Hd11U_9jOkXk4_sT4sI?usp=sharing
