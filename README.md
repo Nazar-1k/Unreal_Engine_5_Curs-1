@@ -59,6 +59,17 @@ Link to the game: https://drive.google.com/drive/folders/1wCfapl1J4TgRI46N-rLwpN
 
 A simple game in which you drive a tank and have to destroy all the turrets that shoot at your tank.
 
+**Description of Implementation:**
+1. Simple control Pawn (WA - move forward/backward SD - rotate a Pawn with a camera right/left);
+2. Enemy (Turrets that fire in the player's direction every two seconds if the player is in line of sight)
+3. Simple Shooting(Spawn a projectile and give it speed in the direction of the shot);
+4. Projectile has a particle system (Trail and Destroy systems);
+5. Sound (if we hit a projectile, which object is the projectile destroyed, and the corresponding sound is played [the sound of destruction or the sound of a simple hit]);  
+6. Shaker Camera (the camera shakes when the projectile is destroyed [if the Base Pawn is also destroyed, then stronger]);
+7. Simple level;  
+8. Simple Lose/Win condition;  
+9. ...
+
 Link to the game: https://drive.google.com/drive/folders/1-VrOQEwj_S8R4w5vmgNOGy3pLtaCdPOc?usp=sharing
 
 # Game 5 (Simple Shooter)
