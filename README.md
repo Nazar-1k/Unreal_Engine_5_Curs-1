@@ -77,4 +77,19 @@ Link to the game: https://drive.google.com/drive/folders/1-VrOQEwj_S8R4w5vmgNOGy
 
 A simple shooter in which you need to kill all the bots that shoot at you.
 
+**Description of Implementation:**
+1. Simple control Сharacter(WASD, Space);
+2. Animation (Used Animation Blueprint, Blend Spaces, and Animation State Machines);
+3. AI Enemy:  
+    a. If the Player is in the field of view of the enemy, AI will start moving after you (If you disappear from the field of view, AI move to the place where the player was last seen, if the player is not there, return to the starting point);  
+    b. AI always looks in the character's direction, given his position;  
+    c. Shooting (If AI reaches the set distance to the character, AI starts shooting at him)
+4. Gun Actor;    
+5. Shooting (The Trace line will spawn);
+6. Particle Systems (Impact Effects and Shooting Effects);  
+7. Sound (Impact Sound and Shooting Sound); 
+8. HUD (Simple Health Progres Bar, and Crosshair);  
+9. Simple level;
+10. Simple Lose/Win condition;
+11. ...
 Link to the game: https://drive.google.com/drive/folders/1XsAMs0gTONNB7Hd11U_9jOkXk4_sT4sI?usp=sharing
